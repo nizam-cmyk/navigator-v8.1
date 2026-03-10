@@ -1,0 +1,212 @@
+{
+  "version": "v8.0-starter-1",
+  "source": "FEST Academic Handbook NOVEMBER 2025 KLUST 1.0",
+  "sections": [
+    {
+      "id": "academic_standing",
+      "keywords": [
+        "academic standing",
+        "good status",
+        "probation",
+        "dismissal",
+        "cgpa",
+        "good standing",
+        "am i on probation",
+        "will i be dismissed"
+      ],
+      "reference": "Grading Systems and Academic Standing",
+      "summary": "Good Status applies from CGPA 2.00 and above. Academic Probation may apply when CGPA is below 2.00. Academic Dismissal may apply if CGPA remains below 2.00 for three consecutive semesters.",
+      "response_hint": "Use this section for probation, dismissal, and CGPA standing questions.",
+      "safety_note": "Do not conclude dismissal from one CGPA value alone. Consecutive semester pattern must also be considered."
+    },
+    {
+      "id": "grading_system",
+      "keywords": [
+        "grading system",
+        "grade point",
+        "gpa",
+        "cgpa calculation",
+        "grade scale",
+        "a grade",
+        "f grade"
+      ],
+      "reference": "Grading Systems",
+      "summary": "The handbook defines the official grade ranges and grade points, including A+/A = 4.00 down to F = 0.00.",
+      "response_hint": "Use this section for GPA/CGPA explanation and grade-point interpretation.",
+      "safety_note": "If the user asks for calculation, require courses, credits, and grades."
+    },
+    {
+      "id": "add_drop",
+      "keywords": [
+        "add drop",
+        "add/drop",
+        "drop course",
+        "register course",
+        "course registration",
+        "change subjects"
+      ],
+      "reference": "Add / Drop Policy",
+      "summary": "Students may add courses without penalty up to the end of the first two weeks of a normal semester or the first week of a short semester.",
+      "response_hint": "Use this section for questions about changing registered courses early in the semester.",
+      "safety_note": "Do not extend deadlines beyond what is stated in the handbook."
+    },
+    {
+      "id": "course_withdrawal",
+      "keywords": [
+        "withdraw course",
+        "course withdrawal",
+        "w grade",
+        "withdraw from subject",
+        "drop after add drop"
+      ],
+      "reference": "Withdrawal from Course or Courses",
+      "summary": "Course withdrawal is allowed after the add/drop period but before the thirteenth week of the normal semester or the seventh week of the short semester. A W grade appears on the transcript and does not count toward GPA.",
+      "response_hint": "Use this section for subject-level withdrawal questions.",
+      "safety_note": "No withdrawal is permitted after the deadline except in extraordinary circumstances stated by the institution."
+    },
+    {
+      "id": "university_withdrawal",
+      "keywords": [
+        "withdraw from university",
+        "leave university",
+        "quit university",
+        "withdraw completely"
+      ],
+      "reference": "Withdrawal from the University",
+      "summary": "Students may withdraw completely from the University before the thirteenth week of the normal semester or the seventh week of the short semester, subject to the required clearances and official process.",
+      "response_hint": "Use this section for complete withdrawal from the University, not a single course.",
+      "safety_note": "Withdrawal is not official until the required form and clearances are completed."
+    },
+    {
+      "id": "postponement",
+      "keywords": [
+        "postponement",
+        "deferment",
+        "postpone studies",
+        "defer studies",
+        "take semester break"
+      ],
+      "reference": "Postponement Policy",
+      "summary": "Students may apply for postponement of studies through the Academic Office, with approval by the Dean and Vice President Academic. Postponement is not allowed after the twelfth week of the long semester or the sixth week of the short semester.",
+      "response_hint": "Use this section for deferment/postponement of studies.",
+      "safety_note": "Do not advise postponement for the purpose of studying elsewhere unless the handbook explicitly permits it."
+    },
+    {
+      "id": "dismissal_appeal",
+      "keywords": [
+        "dismissal appeal",
+        "appeal form",
+        "rof-05",
+        "academic dismissal appeal",
+        "appeal after dismissal"
+      ],
+      "reference": "ROF-05 Academic Dismissal Appeal Form",
+      "summary": "The Academic Dismissal Appeal Form is used immediately after dismissal and must be submitted to the Faculty Academic Office within the first two weeks of the semester, together with semester results, an Academic Plan discussed with the Academic Advisor, and supporting evidence.",
+      "response_hint": "Use this section when the user uploads or mentions an academic dismissal appeal form.",
+      "safety_note": "Do not promise approval. Provide checklist, timeline, and submission guidance only."
+    },
+    {
+      "id": "programme_bse",
+      "keywords": [
+        "software engineering",
+        "bse",
+        "cit314",
+        "bachelor in software engineering"
+      ],
+      "reference": "CIT 314 Academic Structure",
+      "summary": "Bachelor in Software Engineering (Hons) is mapped at 120 total credit hours. Industrial Training is 6 credits, and the Industrial Training prerequisite requires completed 86 credit hours.",
+      "response_hint": "Use this section for software engineering duration, credits, and graduation checks.",
+      "safety_note": "Graduation still depends on compulsory component completion, not credits alone."
+    },
+    {
+      "id": "programme_bcs",
+      "keywords": [
+        "computer science",
+        "bcs",
+        "cit313",
+        "bachelor in computer science"
+      ],
+      "reference": "CIT 313 Academic Structure",
+      "summary": "Bachelor in Computer Science (Hons) is mapped at 120 total credit hours in the current NAVIGATOR dataset.",
+      "response_hint": "Use this section for computer science programme and graduation queries.",
+      "safety_note": "If the user requests fine-grained curriculum breakdown, refer to the programme structure."
+    },
+    {
+      "id": "programme_dit",
+      "keywords": [
+        "diploma in information technology",
+        "dit",
+        "cit206",
+        "information technology diploma"
+      ],
+      "reference": "CIT 206 Academic Structure",
+      "summary": "Diploma in Information Technology is mapped at 92 total credit hours and 2 years 6 months in the current NAVIGATOR dataset.",
+      "response_hint": "Use this section for DIT programme and graduation checks.",
+      "safety_note": "Where finer detail is required, confirm against the official academic structure."
+    },
+    {
+      "id": "programme_bce",
+      "keywords": [
+        "civil engineering",
+        "bce",
+        "bachelor of civil engineering"
+      ],
+      "reference": "BCE Programme Summary",
+      "summary": "Bachelor of Civil Engineering with Honours is mapped at 140 total credit hours in the current NAVIGATOR dataset.",
+      "response_hint": "Use this section for BCE credit and graduation-related queries.",
+      "safety_note": "Compulsory component completion must still be verified."
+    },
+    {
+      "id": "programme_ame303",
+      "keywords": [
+        "mechanical engineering",
+        "ame303",
+        "bachelor of mechanical engineering",
+        "bme"
+      ],
+      "reference": "AME 303 Academic Landscape",
+      "summary": "Bachelor of Mechanical Engineering with Honours is mapped at 135 total credit hours. The extracted year totals are Year 1 = 33, Year 2 = 35, Year 3 = 38, Year 4 = 29. Industrial training must be conducted before the final semester.",
+      "response_hint": "Use this section for mechanical engineering total credits and graduation checks.",
+      "safety_note": "Mechanical engineering subjects may have mandatory final examination pass requirements."
+    },
+    {
+      "id": "programme_ame304",
+      "keywords": [
+        "automotive",
+        "ame304",
+        "bachelor of technology in automotive",
+        "automotive technology"
+      ],
+      "reference": "AME 304 Academic Landscape",
+      "summary": "Bachelor of Technology (Hons) in Automotive is mapped at 120 total credit hours.",
+      "response_hint": "Use this section for automotive programme and graduation questions.",
+      "safety_note": "Final graduation confirmation still depends on compulsory components."
+    },
+    {
+      "id": "programme_aes302",
+      "keywords": [
+        "agricultural science",
+        "plantation management",
+        "aes302",
+        "bachelor of agricultural science"
+      ],
+      "reference": "AES 302 Programme Section",
+      "summary": "Bachelor of Agricultural Science (Plantation Management) (Hons) entry requirement is minimum STPM 2 Principles or a related diploma/foundation with minimum CGPA 2.0, or equivalent Senate-approved qualifications. Full graduation total is still partially mapped in NAVIGATOR.",
+      "response_hint": "Use this section for agricultural science bachelor entry requirement questions.",
+      "safety_note": "Do not declare final graduation eligibility until the full programme credit map is completed."
+    },
+    {
+      "id": "programme_eas201",
+      "keywords": [
+        "eas201",
+        "diploma in agricultural science",
+        "agricultural diploma",
+        "plantation management diploma"
+      ],
+      "reference": "EAS 201 Academic Landscape",
+      "summary": "Diploma in Agricultural Science (Plantation Management) is mapped at approximately 84 total credit hours based on extracted year totals (43 + 41).",
+      "response_hint": "Use this section for agricultural diploma credit and graduation queries.",
+      "safety_note": "If precise semester-by-semester confirmation is needed, refer back to the official academic landscape."
+    }
+  ]
+}

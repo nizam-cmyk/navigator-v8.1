@@ -1,0 +1,111 @@
+{
+  "version": "v8.0-starter-1",
+  "source": "FEST Academic Handbook NOVEMBER 2025 KLUST 1.0",
+  "chunks": [
+    {
+      "id": "chunk_academic_standing_01",
+      "topic": "academic_standing",
+      "keywords": ["probation", "dismissal", "cgpa", "good status"],
+      "reference": "Grading Systems and Academic Standing",
+      "text": "Good Status applies from CGPA 2.00 and above. Academic Probation may apply when CGPA is below 2.00. Academic Dismissal may apply if CGPA remains below 2.00 for three consecutive semesters."
+    },
+    {
+      "id": "chunk_grading_01",
+      "topic": "grading_system",
+      "keywords": ["grade point", "grading system", "gpa", "cgpa"],
+      "reference": "Grading Systems",
+      "text": "The official grading system includes A+/A = 4.00, A- = 3.67, B+ = 3.33, B = 3.00, B- = 2.67, C+ = 2.33, C = 2.00, C- = 1.67, D+ = 1.33, D = 1.00, and F = 0.00."
+    },
+    {
+      "id": "chunk_add_drop_01",
+      "topic": "add_drop",
+      "keywords": ["add/drop", "add drop", "register course", "drop course"],
+      "reference": "Add / Drop Policy",
+      "text": "Students may add courses without penalty up to the end of the first two weeks of a normal semester or the first week of a short semester."
+    },
+    {
+      "id": "chunk_course_withdrawal_01",
+      "topic": "course_withdrawal",
+      "keywords": ["withdraw course", "w grade", "withdrawal from course"],
+      "reference": "Withdrawal from Course or Courses",
+      "text": "Course withdrawal is allowed after the add/drop period but before the thirteenth week of the normal semester or the seventh week of the short semester. A W grade appears on the transcript and does not count toward GPA."
+    },
+    {
+      "id": "chunk_university_withdrawal_01",
+      "topic": "university_withdrawal",
+      "keywords": ["withdraw from university", "leave university", "withdraw completely"],
+      "reference": "Withdrawal from the University",
+      "text": "Students may withdraw completely from the University before the thirteenth week of the normal semester or the seventh week of the short semester, subject to the required clearances and official process."
+    },
+    {
+      "id": "chunk_postponement_01",
+      "topic": "postponement",
+      "keywords": ["postponement", "deferment", "postpone studies", "defer studies"],
+      "reference": "Postponement Policy",
+      "text": "Students may apply for postponement of studies through the Academic Office, with approval by the Dean and Vice President Academic. Postponement is not allowed after the twelfth week of the long semester or the sixth week of the short semester."
+    },
+    {
+      "id": "chunk_dismissal_appeal_01",
+      "topic": "dismissal_appeal",
+      "keywords": ["dismissal appeal", "appeal form", "rof-05", "appeal after dismissal"],
+      "reference": "ROF-05 Academic Dismissal Appeal Form",
+      "text": "The Academic Dismissal Appeal Form is used immediately after dismissal and must be submitted to the Faculty Academic Office within the first two weeks of the semester, together with semester results, an Academic Plan discussed with the Academic Advisor, and supporting evidence."
+    },
+    {
+      "id": "chunk_bse_01",
+      "topic": "programme_bse",
+      "keywords": ["software engineering", "cit314", "bse"],
+      "reference": "CIT 314 Academic Structure",
+      "text": "Bachelor in Software Engineering (Hons) is mapped at 120 total credit hours. Industrial Training is 6 credits, and the Industrial Training prerequisite requires completed 86 credit hours."
+    },
+    {
+      "id": "chunk_bcs_01",
+      "topic": "programme_bcs",
+      "keywords": ["computer science", "cit313", "bcs"],
+      "reference": "CIT 313 Academic Structure",
+      "text": "Bachelor in Computer Science (Hons) is mapped at 120 total credit hours in the current NAVIGATOR dataset."
+    },
+    {
+      "id": "chunk_dit_01",
+      "topic": "programme_dit",
+      "keywords": ["diploma in information technology", "cit206", "dit"],
+      "reference": "CIT 206 Academic Structure",
+      "text": "Diploma in Information Technology is mapped at 92 total credit hours and 2 years 6 months in the current NAVIGATOR dataset."
+    },
+    {
+      "id": "chunk_bce_01",
+      "topic": "programme_bce",
+      "keywords": ["civil engineering", "bce", "bachelor of civil engineering"],
+      "reference": "BCE Programme Summary",
+      "text": "Bachelor of Civil Engineering with Honours is mapped at 140 total credit hours in the current NAVIGATOR dataset."
+    },
+    {
+      "id": "chunk_ame303_01",
+      "topic": "programme_ame303",
+      "keywords": ["mechanical engineering", "ame303", "bme"],
+      "reference": "AME 303 Academic Landscape",
+      "text": "Bachelor of Mechanical Engineering with Honours is mapped at 135 total credit hours. Year 1 = 33, Year 2 = 35, Year 3 = 38, Year 4 = 29. Industrial training must be conducted before the final semester."
+    },
+    {
+      "id": "chunk_ame304_01",
+      "topic": "programme_ame304",
+      "keywords": ["automotive", "ame304", "automotive technology"],
+      "reference": "AME 304 Academic Landscape",
+      "text": "Bachelor of Technology (Hons) in Automotive is mapped at 120 total credit hours."
+    },
+    {
+      "id": "chunk_aes302_01",
+      "topic": "programme_aes302",
+      "keywords": ["agricultural science", "plantation management", "aes302"],
+      "reference": "AES 302 Programme Section",
+      "text": "Bachelor of Agricultural Science (Plantation Management) (Hons) entry requirement is minimum STPM 2 Principles or a related diploma/foundation with minimum CGPA 2.0, or equivalent Senate-approved qualifications."
+    },
+    {
+      "id": "chunk_eas201_01",
+      "topic": "programme_eas201",
+      "keywords": ["eas201", "diploma in agricultural science", "agricultural diploma"],
+      "reference": "EAS 201 Academic Landscape",
+      "text": "Diploma in Agricultural Science (Plantation Management) is mapped at approximately 84 total credit hours based on extracted year totals (43 + 41)."
+    }
+  ]
+}
