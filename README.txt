@@ -1,4 +1,4 @@
-NAVIGATOR V7C Data Pack
+NAVIGATOR V8 Data Pack
 
 Included
 - data/standing_rules.json
@@ -9,7 +9,7 @@ Included
 
 How to use
 1. Copy the data folder into your NAVIGATOR repo root.
-2. Replace or update api/chat.js with your V7C implementation.
+2. Replace or update api/chat.js with your V8 implementation.
 3. Use the JSON files as the handbook-grounded data layer.
 
 Recommended implementation order
