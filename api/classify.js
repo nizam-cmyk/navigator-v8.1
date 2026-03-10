@@ -27,7 +27,15 @@ export function classifyDocument({ message = '', filename = '', documentText = '
     'signature',
     'student id'
   ];
-
+{
+  "current_mode": "form",
+  "last_uploaded_filename": "SACHINDSHAN_Signed.pdf",
+  "last_detected_document_type": "academic_form",
+  "last_form_candidate": "Academic Dismissal Appeal Form",
+  "last_programme": null,
+  "last_cgpa": null,
+  "last_credits": null
+}
   const transcriptKeywords = [
     'transcript',
     'statement of results',
